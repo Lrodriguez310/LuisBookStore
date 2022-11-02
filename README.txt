@@ -121,3 +121,4 @@ FINALLY !  found the right projects to use that matches the tutorial just looked
 
 2 11 2022 1044
 
+copied data folder and added it to the LuisBooks.DataAccess project I then deleted the original.
