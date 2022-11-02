@@ -157,3 +157,8 @@ Modified views > shared > error.cshtml
 I then went into the project LuisBookStore add project reference - .dataaccess and .models checked off.
 
 WOW!  all errors are now gone :)
+
+2 11 1129
+
+renamed models folder to viewmodels
+changed the errorviewmodels.cs namespace to .models.viewmodels
