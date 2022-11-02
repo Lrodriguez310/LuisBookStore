@@ -101,3 +101,19 @@ replacing things in the start up file.
 Using quartz for my bootstrap
 
 https://getbootstrap.com/docs/4.0/components/navbar/
+
+28 10 2022 1040
+
+took out all dark text and added white text and then went to footer and adjusted its properties. with white text and background being the primary as the nav bar bootstrap
+
+29 10 2022  1141
+
+I will now begin and add 3 new projects 
+
+29 10 2022 1150
+
+having trouble adding the new projects looking at all the selections and cant find one to match the tutorial .....
+
+2 11 2022 0945
+
+FINALLY !  found the right projects to use that matches the tutorial just looked up in the search box for c# libraries.
