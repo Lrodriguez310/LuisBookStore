@@ -122,3 +122,19 @@ FINALLY !  found the right projects to use that matches the tutorial just looked
 2 11 2022 1044
 
 copied data folder and added it to the LuisBooks.DataAccess project I then deleted the original.
+
+2 11 2022 1100
+
+Having trouble finding out where to find the packages to install
+
+
+2 11 2022 1109
+
+Found out how to install the packages go to project then manage nuget packages and there I searched for the microsoft.entityframeworkCore.Relational
+and core.sqlserver packages.
+
+YES !  I downloaded both and got it work out.
+
+2 11 2022 1111
+
+Next I will be deleting the migrations from the data folder in the DataAccess project.
