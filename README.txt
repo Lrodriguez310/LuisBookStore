@@ -138,3 +138,22 @@ YES !  I downloaded both and got it work out.
 2 11 2022 1111
 
 Next I will be deleting the migrations from the data folder in the DataAccess project.
+
+2 11 2022 1117
+
+Installed nuget pack : identity.EntityFramework core
+modified the namespace to reflect my project.
+
+2 11 1124
+
+Move models in to LuisBooks.Models and deleted original
+
+2 11 1125
+
+Modified views > shared > error.cshtml 
+
+2 11 1126
+
+I then went into the project LuisBookStore add project reference - .dataaccess and .models checked off.
+
+WOW!  all errors are now gone :)
