@@ -117,3 +117,7 @@ having trouble adding the new projects looking at all the selections and cant fi
 2 11 2022 0945
 
 FINALLY !  found the right projects to use that matches the tutorial just looked up in the search box for c# libraries.
+
+
+2 11 2022 1044
+
