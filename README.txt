@@ -162,3 +162,17 @@ WOW!  all errors are now gone :)
 
 renamed models folder to viewmodels
 changed the errorviewmodels.cs namespace to .models.viewmodels
+
+2 11 2022 1151
+
+Having a hard time with the error.cshtml renaming the namespace at the top @model....
+
+
+2 11 2022 1200
+
+Figured it out!!!  @model LuisBookStore.Models.ViewModels.ErrorViewModel
+@{
+
+2 11 2022 1201
+
+4 more errors to knock out!
